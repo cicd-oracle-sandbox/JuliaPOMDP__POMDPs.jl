@@ -1,0 +1,4 @@
+upstream: https://github.com/JuliaPOMDP/POMDPs.jl
+commit: a05a65de2a7b1d9dd79caa5a56ca120d97d0879d
+license: NOASSERTION
+Unmodified snapshot except that .github/workflows was emptied.
